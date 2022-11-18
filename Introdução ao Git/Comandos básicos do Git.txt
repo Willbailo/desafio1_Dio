@@ -1,0 +1,3 @@
+Site contendo os comandos básicos do Git: http://comandosgit.github.io/
+
+Site 2 sobre Git: https://githowto.com/pt-BR
