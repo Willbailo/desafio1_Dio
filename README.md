@@ -1,4 +1,4 @@
-# desafio1_Dio_Git/GitHub
+# Desafio1_Dio_Git/GitHub
 
 Desafio de projeto Git/GitHub
 
